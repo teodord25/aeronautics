@@ -1,0 +1,80 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+
+[[files]]
+file = "mods/almanac.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+metafile = true
