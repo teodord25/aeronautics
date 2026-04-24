@@ -4,6 +4,9 @@ hash-format = "sha256"
 file = "README.md"
 
 [[files]]
+file = "modrinth.index.json"
+
+[[files]]
 file = "mods/almanac.pw.toml"
 metafile = true
 
@@ -24,11 +27,23 @@ file = "mods/distanthorizons.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
 metafile = true
 
 [[files]]
@@ -45,6 +60,14 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mousetweaks-x-accessories-fix.pw.toml"
 metafile = true
 
 [[files]]
@@ -68,6 +91,14 @@ file = "mods/terralith.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 metafile = true
 
@@ -78,3 +109,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 metafile = true
+
+[[files]]
+file = "overrides/README.md"
+
+[[files]]
+file = "overrides/overrides/README.md"
