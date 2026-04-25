@@ -68,6 +68,10 @@ file = "mods/sable.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 metafile = true
 
